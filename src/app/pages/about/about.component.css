@@ -1,0 +1,12 @@
+.about{
+  display: flex;
+}
+.about-img{
+   
+  height: 400px;
+
+}
+.example-card {
+  max-width: 500px;
+  height: auto;
+}
